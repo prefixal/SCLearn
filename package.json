@@ -1,12 +1,26 @@
 {
   "name": "learn",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prefixal/SCLearn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prefixal/SCLearn/issues"
+  },
+  "homepage": "https://github.com/prefixal/SCLearn#readme",
+  "description": "",
+  "devDependencies": {
+    "truffle": "^5.3.9"
+  }
 }
